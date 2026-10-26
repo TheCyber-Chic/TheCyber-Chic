@@ -1,4 +1,4 @@
-<img src="./assets/pretty lady.gif" width="240" align="right" alt="Animated GIF">
+<img src="./assets/pretty lady.gif" width="200" align="right" alt="Animated GIF">
 
 <h3><code>Hi, I'm Marvelous Titcombe</code></h3>
 <p><code>I'm an entry-level IT practitioner building practical skills in IT support, networking, systems administration, and cybersecurity.</code></p>
