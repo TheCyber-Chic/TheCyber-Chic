@@ -1,7 +1,7 @@
 <img src="./assets/pretty lady.gif" width="190" align="right" alt="Animated GIF">
 
 <h3>Hi, I'm Marvelous Titcombe</h3>
-I'm an entry-level IT practitioner building practical skills in IT support, networking, systems administration, and cybersecurity.
+<p>I'm an entry-level IT practitioner building practical skills in IT support, networking, systems administration, and cybersecurity.</p>
 
 My approach is hands-on: building lab environments, troubleshooting technical issues, documenting what I learn, and improving through practice.
 
